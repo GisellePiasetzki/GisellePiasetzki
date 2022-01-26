@@ -1,8 +1,8 @@
 ### Hey, eu sou a Giselle Piasetzki👋
 
 - 😮 Estou fazendo uma transição de carreira do Direito para a área da tecnologia.
-- 🌱 Estou estudando JavaScript, CSS e HTML.
-- 💪 Almejo me tornar uma desenvolvedora Full Stack.
+- 🌱 Tenho conhecimento em JavaScript, CSS, HTML e estou estudando React.
+- 💪 Almejo me tornar uma desenvolvedora Front-end.
 
 <div align="center">
   <a href="https://github.com/gisellepiasetzki">
