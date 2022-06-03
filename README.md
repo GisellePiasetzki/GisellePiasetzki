@@ -1,7 +1,7 @@
 ### Hey, eu sou a Giselle Piasetzki👋
 
-- 😮 Estou fazendo uma transição de carreira do Direito para a área da tecnologia.
-- 🌱 Tenho conhecimento em JavaScript, CSS, HTML e estou estudando React.
+- 😮 Sou Analista de Sistemas Jr na Ânima Educação.
+- 🌱 Tenho conhecimento em JavaScript, CSS, HTML e estou estudando React e Vue.
 - 💪 Almejo me tornar uma desenvolvedora Front-end.
 
 <div align="center">
